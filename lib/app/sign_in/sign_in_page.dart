@@ -80,7 +80,7 @@ class SignInPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Center(
-          child: Text('Time Tracker'),
+          child: Text('Your super cool app name'),
         ),
         elevation: 4.0,
       ),
